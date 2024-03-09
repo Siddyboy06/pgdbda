@@ -7,5 +7,5 @@ Technologies
   
 | course      | students |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| DAC      | 240       |
+| DBDA   | 60        |
